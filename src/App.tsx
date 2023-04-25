@@ -22,6 +22,8 @@ function App() {
     let ignore = false;
     getLastCommitDate("kjameer0", "hashmap-visualizer").then((data) => {
       if (!ignore) {
+        console.log(data)
+        console.log(data)
         setD(data);
       }
     });
