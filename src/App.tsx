@@ -38,6 +38,7 @@ function App() {
           src="https://kjameer0.github.io/hashmap-visualizer/assets/binary-tree-5dde4aad.png"
           alt="data-Structure-visualizer"
         />
+        <p>Date: </p>
         <p>{d}</p>
       </div>
     </div>
